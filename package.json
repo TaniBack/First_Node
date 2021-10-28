@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_firstclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node /scripts/ejercicio2.js" 
+  },
+  "author": "",
+  "license": "ISC"
+}
